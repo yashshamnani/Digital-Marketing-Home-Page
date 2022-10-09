@@ -4,7 +4,7 @@
 
 This is basically a one pager project made in HTML/CSS  . it   works in laptop screen if you are using desktop please zome in or out that might work .
 
-## LiveLink -- [Home-Page](https://restaurantlandingpage-yashshamnani.netlify.app/)
+## LiveLink -- [Home-Page](https://6342dd5d181c6e2a2a89a1bb--marketing-home-page.netlify.app/)
 
 
 
